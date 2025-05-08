@@ -1,16 +1,79 @@
-## Hi there 👋
+## 😉 关于大学搜题酱网课助手
 
-<!--
-**daxuesoutijiang/daxuesoutijiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/license-MIT-green)](https://github.com/daxuesoutijiang/daxuesoutijiang)
+[![](https://img.shields.io/badge/chrome-sucess-sucess)](https://github.com/daxuesoutijiang/daxuesoutijiang)
+[![](https://img.shields.io/badge/edge-sucess-sucess)](https://github.com/daxuesoutijiang/daxuesoutijiang)
 
-Here are some ideas to get you started:
+大学搜题酱网课助手，一个对超星学习通、智慧树、雨课堂网课平台提供功能扩展增强的脚本。支持视频倍速播放、网页视频、pdf文档、ppt文档、在线搜题答题等功能。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 😮 主要功能
+
+- [x] 视频、音频、文档快速播放，考前复习快人一步
+- [x] 任务点自动切换，无需手动切换章节，学习更专注
+- [x] 便捷搜索试题答案，整合海量题库、AI问答等平台的试题答案及解析，搜题答疑更高效
+- [x] 其他一些细节优化
+- [x] ......
+
+
+
+## 😋 下载安装
+
+
+|           名称           |                           在线安装                           | 最新版本 |
+| :----------------------: | :----------------------------------------------------------: | :------: |
+|   网课增强助手（超星）   | [**官网在线安装**](https://www.daxuesoutijiang.com/pc/download-plugin) |  v1.4.0  |
+| 网课增强助手（雨课堂） | [**官网在线安装**](https://www.daxuesoutijiang.com/pc/download-plugin) |  v1.4.0  |
+|  网课增强助手（智慧树）  | [**官网在线安装**](https://www.daxuesoutijiang.com/pc/download-plugin) |  v1.4.0  |
+
+
+
+## 🧐 安装教程
+
+### 1. 安装插件（若已安装可略过此步骤）
+
+要使用任何脚本，首先需要浏览器安装 Tampermonkey 脚本管理器扩展。在下方表格中选择您使用的浏览器，**优先尝试在线安装**，如果在线安装不成功可尝试离线安装。
+
+
+|         浏览器         |                           在线安装                           |                           离线安装                           |
+| :--------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|    谷歌Chrome浏览器    | **[Chrome扩展商店](https://chromewebstore.google.com/detail/%E5%A4%A7%E5%AD%A6%E6%90%9C%E9%A2%98%E9%85%B1%E6%8F%92%E4%BB%B6/egfkhocobmgeafdbjbphhfdfbmlobgdc?hl=zh-CN&utm_source=ext_sidebar)** |
+| 微软Edge浏览器（推荐） | **[Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/%E5%A4%A7%E5%AD%A6%E6%90%9C%E9%A2%98%E9%85%B1%E6%8F%92%E4%BB%B6/abkclgdmdkokpdkbpdkoiiemhcaafbkg?hl=zh-CN)** | 
+
+**离线安装的两种方法：**
+
+> **方法一：**
+>
+> ① 打开官网链接，直接点击下载。
+>
+> ② 官网有详细安装教程，敬请查看
+
+
+
+## 🤨 使用须知
+
+**本脚本的初衷是使学生的网课学习更加轻松高效，同时为了维护部分平台和学校的合法权益，我们会通过多种方式检测并通过封禁IP等策略避免插件被用于以下情景：**
+①将本脚本用于学校考试作弊，扰乱网课平台或学校的正常教学秩序。
+②使用本脚本搭建刷课平台，批量为他人提供刷课服务。
+......
+
+**封禁的策略包括但不限于：**
+① 屏蔽学校专业课试题，防止被用于学校考试。
+②对请求频率异常的IP地址进行封禁，防止被用于组织刷课。
+......
+
+
+
+## 😶 免责声明
+
+所有脚本完全开源，免费，无论是安装还是使用均不包含任何付费内容，我们也不接受任何形式的捐赠或者赞赏，请勿轻信第三方谣言、谨防诈骗。所有脚本仅供技术学习和交流，禁止任何组织、机构以及个人将其用于商业或者盈利性质的活动。本项目从未进行任何盈利性活动，未来也不会将其用于开展营利性业务。个人或者组织，机构如果使用本项目产生的各类纠纷，法律问题，均由其本人承担。
+
+本脚本中使用的所有试题数据均来自百度题库、问答库等第三方，均来自互联网上可公开访问的内容，不存在通过技术手段抓取网课平台试题的行为。由于试题来源混杂，我们不保证所有试题题干和答案的准确性，使用本脚本意味着您原因承担相关的风险。同时，由于试题数量众多，我们无法逐一审核，如果您发现部分试题侵犯了您的合法权益，请立即联系我们删除侵权内容。
+
+
+
+## 🙂 联系方式
+
+**电子邮箱：**
+collegepc@zuoyebang.com
